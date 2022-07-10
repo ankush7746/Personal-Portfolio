@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.6d5b62ed.css",
+    "main.js": "/Personal-Portfolio/static/js/main.40a03d60.js",
+    "static/media/resume.pdf": "/Personal-Portfolio/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/boy.png": "/Personal-Portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/Personal-Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/gfg.jpg": "/Personal-Portfolio/static/media/gfg.a7c4468a5eba2fe404c8.jpg",
+    "static/media/ib.png": "/Personal-Portfolio/static/media/ib.12a6f8a62644ed49f60e.png",
+    "static/media/thumbup.png": "/Personal-Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Personal-Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Personal-Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Personal-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Personal-Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Personal-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Personal-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.6d5b62ed.css.map": "/Personal-Portfolio/static/css/main.6d5b62ed.css.map",
+    "main.40a03d60.js.map": "/Personal-Portfolio/static/js/main.40a03d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d5b62ed.css",
+    "static/js/main.40a03d60.js"
+  ]
+}
